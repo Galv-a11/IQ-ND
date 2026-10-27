@@ -1,0 +1,16 @@
+{
+  "name": "eduia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "openai": "^5.23.2"
+  },
+  "devDependencies": {
+    "vercel": "^65.2.0"
+  }
+}
